@@ -1,6 +1,6 @@
-# Ahmed Yasser Paython Console
+# Crowd-Funding Console app
 
-Welcome to the **Ahmed Yasser Paython Console** project! This application is designed to manage user accounts and projects, allowing users to register, log in, and donate to various projects.
+Welcome to the Crowd-Funding Console app project! This application is designed to manage user accounts and projects, allowing users to register, log in, and donate to various projects.
 
 ## Features
 
@@ -13,7 +13,7 @@ Welcome to the **Ahmed Yasser Paython Console** project! This application is des
 ## Project Structure
 
 ```
-ahmed-yasser-python-console
+Crowd-Funding Console app
 ├── src
 │   ├── main.py          # Entry point of the application
 │   ├── users.py         # User class for account management
@@ -36,11 +36,11 @@ ahmed-yasser-python-console
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/ahmed-yasser-python-console.git
+   git clone https://github.com/ahmedy1902/Crowd-Funding.git
    ```
 2. Navigate to the project directory:
    ```
-   cd ahmed-yasser-python-console
+   cd Crowd-Funding
    ```
 3. Install the required dependencies:
    ```
